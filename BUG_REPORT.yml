@@ -1,0 +1,31 @@
+name: Bug Report
+description: Official template for reporting a bug.
+title: "[Bug]: "
+labels: ["type: bug", "status: awaiting triage"]
+body:
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+      placeholder: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: To reproduce
+      description: Steps to reproduce the behavior:
+      placeholder:  1. Go to '...'
+                    2. Click on '....'
+                    3. Scroll down to '....'
+                    4. See error
+    validations:
+      required: false
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what is expected to happen.
+    validations:
+      required: false
