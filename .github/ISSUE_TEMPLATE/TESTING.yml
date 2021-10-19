@@ -1,0 +1,26 @@
+name: Testing Request
+description: Official template to report testing tasks/issues.
+title: "[Testing-req]: "
+labels: ["type: testing", "scope: awaiting triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: Describe what needs to be done/what is failing.
+    validations:
+      required: true
+  - type: textarea
+    id: test-cases
+    attributes:
+      label: Identified tests cases
+      placeholder: List the identified test cases that need to be tested.
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      placeholder: Add any other context or screenshots about the feature request here.
+    validations:
+      required: false
