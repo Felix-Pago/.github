@@ -1,0 +1,33 @@
+name: Feature Request
+description: Official template to request an enhancement/new feature. 
+title: "[Feature-req]: "
+labels: ["type: enhancement", "scope: awaiting triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Is your feature request related to a problem? Please describe.
+      placeholder: A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+    validations:
+      required: true
+  - type: textarea
+    id: describe-solution
+    attributes:
+      label: Describe the solution you'd like
+      placeholder: A clear and concise description of what you want to happen.
+    validations:
+      required: false
+  - type: textarea
+    id: describe-alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      placeholder: A clear and concise description of any alternative solutions or features you've considered.
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      placeholder: Add any other context or screenshots about the feature request here.
+    validations:
+      required: false
