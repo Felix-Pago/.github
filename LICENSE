@@ -1,21 +1,118 @@
-MIT License
+# Felix Pago Internal Source Code License
 
-Copyright (c) 2024 G4G - Shared Services
+**Version 1.0 – 2025**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**Copyright (c) 2025–present Felix Pago and its affiliates. All rights reserved.**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This source code and any related files (the “Software”) are proprietary and confidential to **Felix Pago and its affiliates** (“Felix Pago”).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This is **not** an open-source license. No rights are granted to any third party outside Felix Pago, except as explicitly authorized in a separate written agreement signed by Felix Pago.
+
+---
+
+## 1. Authorized Users
+
+Only the following individuals and entities are authorized to use the Software:
+
+1. Employees of Felix Pago acting within the scope of their employment.  
+2. Individual contractors and service providers who have a current, written agreement with Felix Pago that permits access to Felix Pago confidential information and systems.  
+3. Any other person or entity expressly authorized in writing by Felix Pago.
+
+If you do not fall into one of the categories above, you are **not** authorized to use, access, copy, or modify the Software.
+
+---
+
+## 2. Internal Use Only – Grant of License
+
+Subject to compliance with this License and applicable company policies, Felix Pago grants Authorized Users a limited, non-exclusive, non-transferable, revocable license to:
+
+- Access and use the Software **solely for Felix Pago’s internal business purposes**;  
+- Copy, modify, and create derivative works of the Software **only within Felix Pago-managed systems and repositories**;  
+- Incorporate the Software into internal services and systems operated for the benefit of Felix Pago and its customers, in accordance with internal standards and approvals.
+
+No other rights are granted, whether by implication, estoppel, or otherwise.
+
+---
+
+## 3. Restrictions
+
+Unless expressly approved **in writing** by a Felix Pago authorized representative, you **must not**:
+
+1. **Copy, publish, or distribute** the Software (or any portion of it) outside Felix Pago-controlled environments.  
+2. **Exfiltrate** the Software, including but not limited to:
+   - Copying to personal devices or personal repositories;
+   - Uploading to external services (e.g., public Git hosting, paste sites, cloud drives) not explicitly approved for Felix Pago source code;
+   - Transferring to any third party or non-authorized system.
+3. **Use the Software for any purpose outside Felix Pago**, including:
+   - Personal projects;
+   - Work for other employers, clients, or customers;
+   - Any commercial or non-commercial activity not directly related to Felix Pago’s business.
+4. **Re-license, sell, sublicense, or otherwise grant rights** in the Software to any third party.  
+5. Remove, alter, or obscure any copyright, confidentiality, or proprietary notices.
+
+Any unauthorized use, copying, distribution, or exfiltration of the Software is strictly prohibited and may result in disciplinary action (up to and including termination of employment or contract) and/or legal action.
+
+---
+
+## 4. Confidentiality
+
+The Software may contain confidential, sensitive, or regulated information, including but not limited to:
+
+- Business logic, financial logic, fraud and security controls;  
+- Customer or user data handling logic;  
+- Infrastructure, security, and operational details.
+
+You must handle the Software in accordance with all applicable Felix Pago **security, confidentiality, data protection, and acceptable use policies**, as well as any regulatory or contractual obligations that apply.
+
+You must not disclose the Software, or any confidential information it contains, to any unauthorized person.
+
+---
+
+## 5. Intellectual Property
+
+Except for the limited, internal license expressly granted above:
+
+- **Felix Pago retains all right, title, and interest** in and to the Software, including all intellectual property rights.  
+- Any modifications, improvements, or derivative works you create in connection with your work for Felix Pago (“Contributions”) are owned exclusively by Felix Pago, and to the extent any rights do not automatically vest in Felix Pago, you hereby assign all such rights to Felix Pago.
+
+You agree to execute any additional documents reasonably required to confirm or perfect Felix Pago’s ownership of such Contributions.
+
+---
+
+## 6. Termination
+
+This License and your rights under it automatically terminate, without notice, upon the earliest of:
+
+1. Termination of your employment or engagement with Felix Pago;  
+2. Revocation of your access to Felix Pago systems or repositories;  
+3. Breach of this License or applicable Felix Pago policies.
+
+Upon termination, you must immediately cease all use of the Software and ensure that no copies of the Software remain on any non-Felix-Pago system or device under your control, except as required by law or explicit written instruction from Felix Pago.
+
+Felix Pago may also revoke or modify this License at any time for any reason.
+
+---
+
+## 7. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITH NO WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+Your use of the Software must comply with Felix Pago’s internal standards, security requirements, and engineering practices.
+
+---
+
+## 8. Limitation of Liability
+
+To the maximum extent permitted by law, in no event will Felix Pago or its affiliates be liable for any indirect, incidental, special, consequential, or punitive damages, or for any loss of profits, revenue, data, or business opportunities, arising out of or in connection with the use of the Software, even if advised of the possibility of such damages.
+
+---
+
+## 9. Governing Law
+
+This License will be governed by and construed in accordance with the laws applicable to Felix Pago’s main operating legal entity, without regard to conflict of laws principles, unless otherwise required by mandatory law or specified in a written agreement with Felix Pago.
+
+---
+
+## 10. No Waiver; Severability
+
+Failure by Felix Pago to enforce any provision of this License does not constitute a waiver of that provision or any other. If any provision of this License is held to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
