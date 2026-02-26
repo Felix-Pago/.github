@@ -18,4 +18,4 @@
 
 ## 📣 Notify
 <!-- Mention any people that, apart from whomever reviews it, should know about it -->
-cc @username
+cc @
