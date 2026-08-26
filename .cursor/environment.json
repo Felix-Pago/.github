@@ -1,0 +1,4 @@
+{
+  "name": "felix-pago/.github community health files",
+  "install": "pip install --user --quiet yamllint"
+}
